@@ -7,6 +7,6 @@ Este repositório contém uma análise de popularidade do Spotify criada no Powe
 - Spotify Data.relatorio.pdf → relatório exportado em PDF.  
 
 ## Como usar localmente:
-1. Baixe o arquivo `analise.pbix`.  
+1. Baixe o arquivo `Spotify Data.pbix`.  
 2. Abra no Power BI Desktop (gratuito).  
 3. Explore as visualizações criadas.
